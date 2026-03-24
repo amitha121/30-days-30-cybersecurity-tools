@@ -1,4 +1,4 @@
-# Day 2 – OSINT Framework
+# Day 1 – OSINT Framework
 
 ## Tool Name
 
