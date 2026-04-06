@@ -1,0 +1,69 @@
+## Day 4 – Autopsy
+
+### Tool Name
+
+**Autopsy**
+
+### Category
+
+Digital Forensics / Incident Response
+
+### Developer
+
+Basis Technology
+
+### Overview
+
+![Image](https://images.openai.com/static-rsc-4/NtXMEUA15y8fiCFNIxXDl26mJNuMF-J463u6vxLcGLx5V42ekSTxwl_Xy207juEuGR7xEbjnktApSdnXPOpa2JMUhBUmu3IEhaYP5DmMEGRMKehn-qO06I6iFpEmEW3_3HNlOCIq5fQIaXJW96a_WKlRUwiMQmVi2Fq7s9YQHZXgIBPmEoLSBgiGu6Yf_roA?purpose=fullsize)
+
+![Image](https://images.openai.com/static-rsc-4/kEdoEYHZbJICF0F_lBQlpGdwRjhT9CTq1vvoxbffY1csIwEDS8doq77sFjiJNvgg1Pi1hM5x96B1m2if1WH8-rmlVGSPHzWSDQu33JWIacSzmkUhMgyGwQE6FPvBYOs-MqobqhbpYcUsKLokKLRhuB492GRoHq2kOCUoZsTPxtQ18Te3AR76eXOxeyhY3Fk0?purpose=fullsize)
+
+![Image](https://images.openai.com/static-rsc-4/u2PdPGRuyUm5OvC6Cfq4wzsGDpqp9QpVhMbVH8j6Y6H7cWK9eLbdBq1INvFt-YAUSVozMYVS0juR5bYHkgDyymwGx8ylx3ez35fctBOyttpejCqIESXrQA5pK1UeWSi30jZYpAJcBVOlvVBziOZpvUuQWUeNwnJfRIwv5P9QxrVqBHjeOYvJDqtOjqBLHETs?purpose=fullsize)
+
+![Image](https://images.openai.com/static-rsc-4/KZC3ZsbnkKcKfB1RDw9NfA3R8OUHZsJEct7ErygH13pYtt5pKmU5s9R4z65hiAufO-wIvxcxKSYCPnzKVHIUAU4oALRnVxQVjGCyM-UiMy_n5B5lBZyJO-Y2SnuJmMhGV15HnlovIv1id6y1WWOzqbuSCuzrKOJPGZ7mEvA7zqsV0TF3izwULc1H8o_19jKK?purpose=fullsize)
+
+![Image](https://images.openai.com/static-rsc-4/SEz1AtvF3617I3M3Ey8YNSYwfiHjbhutDXqfcE5KtRQsSx7_r1VBMmA4PO_4qHYaDxGurMYLwS5QWLXUzkm3Jp86RcKOtzCfujkbaqGwFUV6GIb3v9TqzFsp9qRZE_lNnMvW3cQFo4pLmiH0hPwYoSgrzKKBXis9oU4v0fY7X74QmXcTSaELViDQJuryIGIW?purpose=fullsize)
+
+![Image](https://images.openai.com/static-rsc-4/D0RRn_kMD6WISO5kqcmvbbDLuna55PImN5llG-0gpo4VgwrwMHY2WnLWar0yF2cJ0mxLw51ZoDtkMeRoEKSFNzlfeSQHPjNXnhNTIiMIofKY_LoLmHWHxpznurwHizijutb2z6HPn0EnE1_Vu4caOxgQa_tkyuoOVCln5VbT5YIzeuGe2xrujRSe8gFrLDXU?purpose=fullsize)
+
+**Autopsy** is an open-source **digital forensics platform** used to analyze hard drives, smartphones, and other storage devices.
+
+It provides a graphical interface built on top of **The Sleuth Kit**, making complex forensic investigations easier to perform without deep command-line knowledge.
+
+Autopsy helps investigators recover deleted files, analyze user activity, and uncover digital evidence from systems.
+
+### Primary Purpose
+
+The primary purpose of Autopsy is to **perform forensic analysis on digital storage devices** and extract evidence for investigations.
+
+### Key Features
+
+* Analyze **disk images and file systems**
+* Recover **deleted files and hidden data**
+* Powerful **keyword search capabilities**
+* Timeline analysis of system activity
+* Detect **malware artifacts and suspicious files**
+* Extract browser history, emails, and user activity
+* Plugin support for extended functionality
+* User-friendly graphical interface
+
+### How It Is Used in Cybersecurity
+
+Autopsy is widely used in **digital forensics and incident response (DFIR)**.
+
+Some common uses include:
+
+* Investigating **cybercrime cases**
+* Analyzing compromised systems after an attack
+* Recovering **deleted or hidden evidence**
+* Examining **user behavior and file access**
+* Detecting **malicious files or traces of malware**
+* Supporting legal investigations with digital evidence
+
+It’s often used after a breach to answer:
+**“What happened, how did it happen, and what was affected?”**
+
+### Why Beginners Should Know This Tool
+
+Autopsy is one of the best entry points into digital forensics.
+
