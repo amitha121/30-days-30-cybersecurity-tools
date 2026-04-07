@@ -1,1 +1,70 @@
+## Day 4 – Autopsy
 
+### Tool Name
+
+**Autopsy**
+
+### Category
+
+Digital Forensics / Incident Response
+
+### Developer
+
+Basis Technology
+
+### Overview
+**Autopsy** is an open-source **digital forensics platform** used to analyze hard drives, smartphones, and other storage devices.
+
+It provides a graphical interface built on top of **The Sleuth Kit**, making complex forensic investigations easier to perform without deep command-line knowledge.
+
+Autopsy helps investigators recover deleted files, analyze user activity, and uncover digital evidence from systems.
+
+### Primary Purpose
+
+The primary purpose of Autopsy is to **perform forensic analysis on digital storage devices** and extract evidence for investigations.
+
+### Key Features
+
+* Analyze **disk images and file systems**
+* Recover **deleted files and hidden data**
+* Powerful **keyword search capabilities**
+* Timeline analysis of system activity
+* Detect **malware artifacts and suspicious files**
+* Extract browser history, emails, and user activity
+* Plugin support for extended functionality
+* User-friendly graphical interface
+
+### How It Is Used in Cybersecurity
+
+Autopsy is widely used in **digital forensics and incident response (DFIR)**.
+
+Some common uses include:
+
+* Investigating **cybercrime cases**
+* Analyzing compromised systems after an attack
+* Recovering **deleted or hidden evidence**
+* Examining **user behavior and file access**
+* Detecting **malicious files or traces of malware**
+* Supporting legal investigations with digital evidence
+
+It’s often used after a breach to answer:
+**“What happened, how did it happen, and what was affected?”**
+
+### Why Beginners Should Know This Tool
+
+Autopsy is one of the best entry points into digital forensics.
+It helps beginners:
+
+* Understand **how digital evidence is collected and analyzed.**
+* Learn file systems and data structures.
+* Practice **real-world investigation scenarios.**
+* Gain hands-on experience without needing advanced skills.
+* Build a foundation for careers in **DFIR and cybercrime investigation.**
+
+### Official Website
+
+[https://www.autopsy.com](https://www.autopsy.com)
+
+### Quick Summary
+
+Autopsy is a **digital forensics tool** that allows investigators to analyze storage devices, recover deleted data, and uncover evidence. It is essential for **incident response and forensic investigations**, making it a key tool in cybersecurity.
