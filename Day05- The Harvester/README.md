@@ -60,7 +60,11 @@ It helps learners:
 * Build skills in **domain and email enumeration**
 * Get comfortable with **command-line security tools**
 
-🌐 Official Website
+## 🌐 Official Website
 
 https://github.com/laramies/theHarvester
+
+## 📝 Quick Summary
+
+theHarvester is a powerful OSINT reconnaissance tool that collects emails, subdomains, and IP information from public sources. It is widely used in the early stages of cybersecurity assessments to map targets and gather intelligence without direct interaction.
 
