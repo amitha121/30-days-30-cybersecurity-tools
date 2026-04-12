@@ -47,5 +47,16 @@ theHarvester is primarily used during the **reconnaissance phase** of ethical ha
 * Supporting further testing such as **vulnerability scanning**
 
 It helps answer critical early-stage questions like:
-➡️ *“What assets and people are connected to this target?”*
+➡️ *“What assets and people are connected to this target?”
+## 🎓 Why Beginners Should Know This Tool
+
+theHarvester is an essential tool for beginners learning OSINT and reconnaissance.
+
+It helps learners:
+
+* Understand **information gathering techniques**
+* Learn how attackers map targets before exploitation
+* Practice **passive reconnaissance safely**
+* Build skills in **domain and email enumeration**
+* Get comfortable with **command-line security tools**
 
