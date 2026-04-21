@@ -63,3 +63,12 @@ It helps beginners:
 * Explore **internet-wide reconnaissance techniques**
 * Gain awareness of **misconfigurations and vulnerabilities**
 * Build strong OSINT and security analysis skills
+
+### Official Website
+
+[https://www.shodan.io](https://www.shodan.io)
+
+### Quick Summary
+
+Shodan is a **search engine for internet-connected devices** that allows users to find exposed systems, open ports, and services. It is widely used in cybersecurity for **reconnaissance, vulnerability discovery, and attack surface analysis**.
+
